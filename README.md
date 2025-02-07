@@ -1,6 +1,6 @@
 # Relax and Merge: A Simple Yet Effective Framework for Solving Fair k-Means and k-sparse Wasserstein Barycenter Problems
 
-This code is the official implementation of the paper "Relax and Merge: A Simple Yet Effective Framework for Solving Fair k-Means and k-sparse Wasserstein Barycenter Problems" submitted to NeurIPS 2024.
+This code is the official implementation of the paper "Relax and Merge: A Simple Yet Effective Framework for Solving Fair k-Means and k-sparse Wasserstein Barycenter Problems" submitted to ICLR 2025.
 
 ## Requirements
 
